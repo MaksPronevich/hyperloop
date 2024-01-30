@@ -43,7 +43,7 @@ export const projectConfig = {
 	sliderPersonages: [
 		{ name: "PEPELOOP", imageUrl: "/img/personages/pepeloop.png" },
 		{ name: "ELONLOOP", imageUrl: "/img/personages/elonloop.png" },
-		{ name: "COWLOOP", imageUrl: "/img/personages/cowloop.png" },
+		{ name: "CAWLOOP", imageUrl: "/img/personages/cawloop.png" },
 		{ name: "UWULOOP", imageUrl: "/img/personages/uwuloop.png" },
 		{ name: "SHIBALOOP", imageUrl: "/img/personages/shibaloop.png" },
 		{ name: "FINNLOOP", imageUrl: "/img/personages/finnloop.png" },
