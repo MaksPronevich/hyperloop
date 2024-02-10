@@ -41,13 +41,12 @@ export const projectConfig = {
 	],
 
 	sliderPersonages: [
-		{ name: "PEPELOOP", imageUrl: "/img/personages/pepeloop.png" },
-		{ name: "ELONLOOP", imageUrl: "/img/personages/elonloop.png" },
-		{ name: "CAWLOOP", imageUrl: "/img/personages/cawloop.png" },
-		{ name: "UWULOOP", imageUrl: "/img/personages/uwuloop.png" },
-		{ name: "SHIBALOOP", imageUrl: "/img/personages/shibaloop.png" },
-		{ name: "FINNLOOP", imageUrl: "/img/personages/finnloop.png" },
-		{ name: "FLOKILOOP", imageUrl: "/img/personages/flokiloop.png" },
+		{ name: "PEPE", imageUrl: "/img/personages/pepeloop.png" },
+		{ name: "ELON", imageUrl: "/img/personages/elonloop.png" },
+		{ name: "CAW", imageUrl: "/img/personages/cawloop.png" },
+		{ name: "SHIBA", imageUrl: "/img/personages/shibaloop.png" },
+		{ name: "FINN", imageUrl: "/img/personages/finnloop.png" },
+		{ name: "FLOKI", imageUrl: "/img/personages/flokiloop.png" },
 	],
 
 	thrillingTournamentsVideoUrl: "0TXSbgwGXyY?si=FaOVtCZOSlgIU9Zh",
